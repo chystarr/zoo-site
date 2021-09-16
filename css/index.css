@@ -1,5 +1,9 @@
 body {
-  font-family: Gill Sans, sans-serif;
-  background-color: magenta;
+  font-family: Helvetica, sans-serif;
+  background-color: rgb(249, 245, 232);
   text-align: center;
+}
+
+div {
+  font-size: 18px;
 }
