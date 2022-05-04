@@ -1,4 +1,4 @@
 # assignment1
-Practical Web Development (CSCI 39548) Assignment 1, Fall 2021
+Website created using HTML and CSS
 
 [Link to site](https://chystarr.github.io/assignment1/)
